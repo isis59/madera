@@ -1,9 +1,5 @@
-# madera dfgdfgdf
-edit 2 maj via script
-et maintenant ca marche
-petite derniere pourla route
-ca marche puuuuu
-grrrrr ouaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-halellujah
-finalisation 
-Je suis un boss !!!
+# madera Readme file
+
+Bonjour, 
+
+vous trouverez ici le projet madera mis en place dans le cadre d'une formation en ingenierie des logiciels au CESI d'arras
